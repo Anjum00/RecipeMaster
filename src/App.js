@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Hello this is the demo text to see the live site is working properly or not you can remove this whenever you need
+          Rajvi
     </h1>
     </div>
   );
