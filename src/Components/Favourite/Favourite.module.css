@@ -1,0 +1,62 @@
+
+.Favourite {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .panel {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    justify-content: space-between;
+  }
+  
+  .containerWrapper {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    max-width: 80%;
+    margin: 0 10px;
+  }
+  
+  .container {
+    min-width: 300px;
+    height: 200px;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: rgb(255, 0, 0);
+    border-radius: 10px;
+  }
+
+  .scrollButton {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 24px;
+    margin: 0 10px;
+  }
+  
+  .scrollButton:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  .scrollButton.left {
+    border-radius: 10px 0 0 10px;
+  }
+  
+  .scrollButton.right {
+    border-radius: 0 10px 10px 0;
+  }
+
+  .containerWrapper::-webkit-scrollbar {
+    display: none;
+  }
+  

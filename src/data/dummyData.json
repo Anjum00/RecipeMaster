@@ -1,0 +1,265 @@
+
+
+[
+    {
+      "id": 1,
+      "category": "Breakfast",
+      "name": "French Toast",
+      "description": "Delicious slices of bread",
+      "image": "b1.png"
+    },
+    {
+      "id": 2,
+      "category": "Breakfast",
+      "name": "Oatmeal and Nut ",
+      "description": "Wholesome blend for breakfast",
+      "image": "b2.png"
+    },
+    {
+      "id": 3,
+      "category": "Breakfast",
+      "name": "Eggs Benedict  ",
+      "description": "Muffin with Canadian bacon",
+      "image": "b3.png"
+    },
+    {
+      "id": 4,
+      "category": "Breakfast",
+      "name": "Still Life Potato",
+      "description": "Earthy, textured, rustic charm",
+      "image": "b4.png"
+    },
+    {
+      "id": 5,
+      "category": "Breakfast",
+      "name": "",
+      "description": "",
+      "image": "b5.png"
+    },
+    {
+      "id": 6,
+      "category": "Breakfast",
+      "name": "",
+      "description": "",
+      "image": "b6.png"
+    },
+    
+
+    {
+      "id": 7,
+      "category": "Lunch",
+      "name": "Baked Chicken",
+      "description": "Delicious and juicy wings",
+      "image": "l1.png"
+    },
+
+    {
+      "id": 8,
+      "category": "Lunch",
+      "name": "BBQ Tacos",
+      "description": "Mixed vegetables and meat",
+      "image": "l2.png"
+    },
+
+    {
+      "id": 9,
+      "category": "Lunch",
+      "name": "Chicken Burger",
+      "description": "Crunchy bread",
+      "image": "l3.png"
+    },
+
+    {
+      "id": 10,
+      "category": "Lunch",
+      "name": "Chicken Curry",
+      "description": "Rice bowl",
+      "image": "l4.png"
+    },
+
+    {
+      "id": 11,
+      "category": "Lunch",
+      "name": "",
+      "description": "",
+      "image": "l5.png"
+    },
+
+    {
+      "id": 12,
+      "category": "Lunch",
+      "name": "",
+      "description": "",
+      "image": "l6.png"
+    },
+
+    {
+      "id": 13,
+      "category": "Dinner",
+      "name": "Chicken Wrap",
+      "description": "Zesty chicken wrapped in soft tortilla.",
+      "image": "d1.jpeg"
+    },
+    {
+      "id": 14,
+      "category": "Dinner",
+      "name": "Frittata Spinach",
+      "description": "Savory, fluffy, nutritious delight.",
+      "image": "d2.jpeg"
+    },
+    {
+      "id": 15,
+      "category": "Dinner",
+      "name": "Lemonade",
+      "description": "Flavorful grilled salmon with savory herbs.",
+      "image": "d3.jpeg"
+    },
+    {
+      "id": 16,
+      "category": "Dinner",
+      "name": "Mexican Appetizer",
+      "description": "Spicy guacamole and salsa duo",
+      "image": "d4.png"
+    },
+    {
+      "id": 17,
+      "category": "Dinner",
+      "name": "",
+      "description": "",
+      "image": "d5.png"
+    },
+    {
+      "id": 18,
+      "category": "Dinner",
+      "name": "",
+      "description": "",
+      "image": "d6.png"
+    },
+    {
+      "id": 19,
+      "category": "Vegan",
+      "name": "Beans Burger",
+      "description": "Veggie-packed bean burger patty",
+      "image": "v1.png"
+    },
+    {
+      "id": 20,
+      "category": "Vegan",
+      "name": "Broccoli Lasagna",
+      "description": "Cheesy broccoli-filled lasagna layers",
+      "image": "v2.png"
+    },
+    {
+      "id": 21,
+      "category": "Vegan",
+      "name": "Egg Plant Gratin",
+      "description": "Oven-baked eggplant with savory gratin",
+      "image": "v3.jpeg"
+    },
+    {
+      "id": 22,
+      "category": "Vegan",
+      "name": "Quinoa Salad",
+      "description": "Nutrient-rich quinoa tossed in salad",
+      "image": "v4.jpeg"
+    },
+    {
+      "id": 23,
+      "category": "Vegan",
+      "name": "",
+      "description": "",
+      "image": "v5.png"
+    },
+    {
+      "id": 24,
+      "category": "Vegan",
+      "name": "",
+      "description": "",
+      "image": "v6.jpeg"
+    },
+    {
+      "id": 25,
+      "category": "Dessert",
+      "name": "Fruit Crepes",
+      "description": "Fruity-filled chocolate crepes",
+      "image": "de.1.png"
+    },
+    {
+      "id": 26,
+      "category": "Dessert",
+      "name": "Chocolate Brownie",
+      "description": "Rich, fudgy chocolate brownie delight",
+      "image": "de2.png"
+    },
+    {
+      "id": 27,
+      "category": "Dessert",
+      "name": "Caramel Flan",
+      "description": "Smooth, decadent caramel flan treat",
+      "image": "de3.png"
+    },
+    {
+      "id": 28,
+      "category": "Dessert",
+      "name": "Macarons",
+      "description": "Delicate, colorful French macarons",
+      "image": "de4.png"
+    },
+    {
+      "id": 29,
+      "category": "Dessert",
+      "name": "",
+      "description": "",
+      "image": "de5.png"
+    },
+    {
+      "id": 30,
+      "category": "Dessert",
+      "name": "",
+      "description": "",
+      "image": "de6.jpeg"
+    },
+    {
+      "id": 31,
+      "category": "Drinks",
+      "name": "American Coffee",
+      "description": "Bold and robust Americano delight",
+      "image": "di.1.png"
+    },
+    {
+      "id": 32,
+      "category": "Drinks",
+      "name": "Coffee Latte",
+      "description": "Creamy, frothy latte perfection",
+      "image": "di2.png"
+    },
+    {
+      "id": 33,
+      "category": "Drinks",
+      "name": "Craft Beer",
+      "description": "Artisanal brew of craft beer bliss",
+      "image": "di3.png"
+    },
+    {
+      "id": 34,
+      "category": "Drinks",
+      "name": "Fruit Tea",
+      "description": "Refreshing infusion of fruity tea",
+      "image": "di4.png"
+    },
+    {
+      "id": 35,
+      "category": "Drinks",
+      "name": "",
+      "description": "",
+      "image": "di5.png"
+    },
+    {
+      "id": 36,
+      "category": "Drinks",
+      "name": "",
+      "description": "",
+      "image": "di6.png"
+    }
+  ]
+  

@@ -1,0 +1,56 @@
+.filterBar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.filterBtn {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 10px 20px;
+  color: #FD5D69;
+  font-family: Poppins;
+}
+
+.filterBtn:hover {
+  border-radius: 30px;
+  background: #FD5D69;
+
+  color: white;
+}
+
+.itemList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+
+}
+
+.item {
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.item h3 {
+  font-size: 28px;
+}
+
+.foodImage {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
